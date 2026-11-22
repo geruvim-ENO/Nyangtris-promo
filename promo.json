@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "games": [
+    {
+      "enabled": true,
+      "name": "냥냥디펜스:새로운세계",
+      "tagline": "고양이를 소환하고 합성해\n몬스터를 막는 전략 디펜스",
+      "features": [
+        "고양이 25종 수집",
+        "같은 고양이를 합성해 더 강하게",
+        "토벌 · 일일 및 주간 미션"
+      ],
+      "icon": "icons/nyangdefense.png",
+      "packageId": "com.innoverse.nyangdefense"
+    }
+  ]
+}
